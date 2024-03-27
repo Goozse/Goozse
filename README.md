@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goozse
 - 👀 I’m interested in anything efficient
-- 🌱 I’m currently learning Javafx
+- 🌱 I’m currently learning Javafx, Java and LUA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: rubber duck
